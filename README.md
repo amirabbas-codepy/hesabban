@@ -1,27 +1,23 @@
-سلام و وقتتون بخیر کاربران گرامی
-من یک برنامه مدیریت تراکنش ها نوشتم تاا شما بتوانید به راحتی تراکنش های روزانه خودرا مدیریت کنید و متوجه بشوید که داراریی های شما کجا میرود و به قولی دخل و خرج خود را تحت نظر دارید
-این برنامه بر اساس نیاز واقعی نوشته شده نیازی که پدرم داشت
-او همیشه برای حساب کتاب کردن و ثبت تراکنش های خود از یک دفتر لستفاده میکرد که این موضوع محاسبه ی تراکنش ها نمایششان و جستجو انهارا سخت و دشوار میکرد و این شد که من طی دو ماه این برنامه را با قابلیت های شگفت انگیز طراحی کردم
+Hello and good time dear users, I wrote a transaction management program so that you can easily manage your daily transactions and understand where your assets are going and, in a way, monitor your income and expenses. This program was written based on a real need that my father had. He always used a notebook to calculate and record his transactions, which made it difficult to calculate, display, and search for transactions. So I designed this program with amazing features in two months.
 
-#ویژی های این برنامه
+#Features of this program
 
-قابلیت مشاهده صفحه داشبورد : مشاهده خلاصه وضعیت مالی و همچنین ایجاد یک نمودار از وضعیت تراکنش ها
+Ability to view the dashboard page: View a summary of your financial status and also create a graph of the status of transactions
 
-قابلیت ثبت راحت تراکنش ها با رابط کاربری ساده
+Ability to easily record transactions with a simple user interface
 
-دارای صفحه ورورد و ثبت نام که امنیت داده های شما را تضمین میکند و هرکسی حساب کاربری خود را دارد
+It has a login and registration page that ensures the security of your data and everyone has their own account
 
-دارای صفحه جستجو و نمایش همه ی تراکنش ها تا شما بتوانید تراکنش های خود را مشاهده کنید
+It has a search and display page for all transactions so that you can view your transactions
 
-داری گزینه تبدیل تراکنش ها به فایل پی دی اف
+You have the option to convert transactions to a PDF file  F
 
-دارای گزینه گزارش دهی دقیق مالی
+Has a detailed financial reporting option
 
-دارای صفحه تدیل ارز
+Has a currency conversion page
 
-داری صفحه حذف تراکنش
+Has a transaction deletion page
 
-و در نهایت دارای رابط کاربری ساده و زیبا
+And finally, has a simple and beautiful user interface
 
-شعار همیشگی ما : تمیزی در کد -- راحتی در استفاده
-و در نهایت صفحه
+Our constant motto: Clean code - ease of use and finally a page
